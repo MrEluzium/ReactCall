@@ -1,0 +1,6 @@
+[socket]
+host = ""
+
+[onesignal]
+app_key = ""
+app_id = ""
